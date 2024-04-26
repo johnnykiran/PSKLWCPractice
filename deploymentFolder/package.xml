@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ApexTypesController</members>
+        <members>ContactController</members>
+        <members>CustomWrapper</members>
+        <name>ApexClass</name>
+    </types>
+     
+    <types>
+        <members>Contact.Picture__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Contact</members>
+        <name>CustomObject</name>
+    </types>
+     
+    <types>
+        <members>Contact-Contact %28Marketing%29 Layout</members>
+        <members>Contact-Contact %28Sales%29 Layout</members>
+        <members>Contact-Contact %28Support%29 Layout</members>
+        <members>Contact-Contact Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>apexImperativeMethod</members>
+        <members>apexImperativeMethodWithComplexParams</members>
+        <members>apexImperativeMethodWithParams</members>
+        <members>apexStaticSchema</members>
+        <members>apexWireMethodToFunction</members>
+        <members>apexWireMethodToProperty</members>
+        <members>apexWireMethodWithComplexParams</members>
+        <members>apexWireMethodWithParams</members>
+        <members>apiMethod</members>
+        <members>apiProperty</members>
+        <members>apiSetterGetter</members>
+        <members>apiSpread</members>
+        <members>chartBar</members>
+        <members>child</members>
+        <members>clock</members>
+        <members>errorPanel</members>
+        <members>ldsUtils</members>
+        <members>todoList</members>
+        <name>LightningComponentBundle</name>
+    </types>
+     
+    <version>59.0</version>
+</Package>
